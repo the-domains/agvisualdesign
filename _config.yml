@@ -1,6 +1,6 @@
 name: AGVisualDesign
 favicon: null
-layout_spectrum: 0.18673647358082235
+layout_spectrum: 1
 typography_spectrum: 0.13458402268588543
 title: 'Concept Design, Illustration, animation, scultp & 3D, rigging, art direction.'
 cta:
@@ -22,8 +22,8 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.2784482731949538
+  brandStrength: 0.1875
   lightness: 0.015186713309958577
-  saturation: 0.5073708621785045
+  saturation: 0.6875
   rhythmicContrast: 0.17616077326238155
 purpose: []
