@@ -4,8 +4,15 @@
         <description><![CDATA[AGVisualDesign / Concept Design, Illustration, animation, scultp & 3D, rigging, art direction.]]></description>
         <link>https://thegrid.ai/agvisualdesign/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Mar 2016 21:31:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2016 21:32:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/agvisualdesign/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Opera Prima]]></title>
+            <description><![CDATA[<article><h1>Opera Prima</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a0815d17dd6455cf6ae52b74370260833fc9bced.jpg"></article>]]></description>
+            <link>https://thegrid.ai/agvisualdesign/opera-prima/index.html</link>
+            <guid isPermaLink="false">3807d1e3-b089-40cd-a124-34ef7fbe56e1</guid>
+            <pubDate>Sat, 26 Mar 2016 21:32:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Demo reel Alejandro Guzman 3D Visual designer 2015]]></title>
             <description><![CDATA[<article><h1>Demo reel Alejandro Guzman 3D Visual designer 2015</h1><p>Visual Designer Professional 3D Animation Director Masters in Design and Interactive Creation Autodesk Maya, Autodesk Mudbox, Autodesk 3D Max, Adobe Photoshop, Adobe After effects. Managing direction, Art direction, animation, rigging, modeling, texturing, layout, unwraping, lightning, conceptual art, character design, illustration.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e0ae73619f21a144cfa4ad88036350d9ce4b40d3.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/agvisualdesign/demo-reel-alejandro-guzman-3d-visual-designer-2015/index.html</link>
             <guid isPermaLink="false">f74ff137-0bc6-4029-8203-b7b2e329c719</guid>
             <pubDate>Thu, 04 Feb 2016 12:24:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/79604c9c-cd91-4099-b4ff-84abbdc54f75.jpg">]]></description>
-            <link>https://thegrid.ai/agvisualdesign/356af8b5-8307-42e7-a775-99d6ef7d9d20/index.html</link>
-            <guid isPermaLink="false">356af8b5-8307-42e7-a775-99d6ef7d9d20</guid>
-            <pubDate>Thu, 04 Feb 2016 10:16:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
